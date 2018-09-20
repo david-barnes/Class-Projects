@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final Project", "Final Project\Final Project.csproj", "{01D7F632-9D30-4E62-826E-B5FC9D297972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petfinder API", "Petfinder API\Petfinder API.csproj", "{A6A63422-64C0-4E1C-AD42-C91EBFE93C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01D7F632-9D30-4E62-826E-B5FC9D297972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D7F632-9D30-4E62-826E-B5FC9D297972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D7F632-9D30-4E62-826E-B5FC9D297972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D7F632-9D30-4E62-826E-B5FC9D297972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A63422-64C0-4E1C-AD42-C91EBFE93C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A63422-64C0-4E1C-AD42-C91EBFE93C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A63422-64C0-4E1C-AD42-C91EBFE93C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A63422-64C0-4E1C-AD42-C91EBFE93C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28892320-B698-40D7-87A3-82DA6BA1102F}
+	EndGlobalSection
+EndGlobal
